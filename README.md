@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there, I'm Jose Simbillo 👋  
+
+###### Don't worry, we're working on something right now...
 
 <!--
 **GithubSim13/GithubSim13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
